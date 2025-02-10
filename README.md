@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @rmanadath
-- 👀 I’m interested in basketball and cooking.
-- 🌱 I’m currently learning Javascript.
 - 📫 Email me at rayhaanmanadath@gmail.com
 
 <!---
